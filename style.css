@@ -1,0 +1,12 @@
+header {
+    background-color: black;
+    color: white;
+}
+body {
+    background-color:#FFFFFF;
+}
+
+h1 {
+    font-style: italic;
+    font-size: 18;
+}

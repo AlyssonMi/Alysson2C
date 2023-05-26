@@ -1,5 +1,5 @@
 header {
-    background-color: black;
+    background-color: brown;
     color: white;
 }
 body {
@@ -8,5 +8,18 @@ body {
 
 h1 {
     font-style: italic;
-    font-size: 18;
+    font-size: xx-large;
+}
+p1 {
+    font-size: larger;
+}
+p2 {
+    font-size: medium;
+}
+h2 { 
+    font-style: italic;
+    color: black;
+}
+li {
+    font-size: larger;
 }

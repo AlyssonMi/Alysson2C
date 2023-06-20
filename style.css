@@ -6,6 +6,17 @@ body {
     background-color:#FFFFFF;
 }
 
+div {
+    width: 500px;
+    height: 200px;
+    overflow: hidden; /* Faz o div não aumentar a altura por causa da imagem */
+}
+
+img {
+    border: 1px solid red;
+    width: 100%;
+}
+
 h1 {
     font-style: italic;
     font-size: xx-large;
